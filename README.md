@@ -52,11 +52,16 @@ romaslink-monorepo/
 
 ## Live Demonstrations
 
-See RomasLink in action: [TikTok @romaslink](https://www.tiktok.com/@romaslink)
+See RomasLink in action:
+- **TikTok**: [@romaslink](https://www.tiktok.com/@romaslink) - Short demos & concepts
+- **YouTube**: [@RomasLink](https://www.youtube.com/@RomasLink) - Detailed technical demonstrations
+
+### Featured Demos
 - Hub interaction with AR glasses
-- EMG wristband gesture control
+- EMG wristband gesture control  
 - Marketplace token validation demo
 - Multi-user social experiences
+- Technical deep-dives and patent explanations
 
 ## Technical Stack
 
