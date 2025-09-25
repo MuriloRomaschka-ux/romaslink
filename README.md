@@ -124,5 +124,3 @@ See RomasLink in action: [TikTok @romaslink](https://www.tiktok.com/@romaslink)
 
 *RomasLink: Where Physical Spaces Meet Digital Experiences*
 ```
-
-This version is much more appropriate for GitHub because it clearly communicates the patent status, technical innovation, and attracts the right type of collaborators.
